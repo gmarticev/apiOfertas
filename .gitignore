@@ -1,7 +1,6 @@
 ######################
 # Project Specific
 ######################
-/target/classes/static/**
 /src/test/javascript/coverage/
 
 ######################
@@ -9,7 +8,6 @@
 ######################
 /node/
 node_tmp/
-node_modules/
 npm-debug.log.*
 /.awcache/*
 /.cache-loader/*
