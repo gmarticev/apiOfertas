@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.mycompany.apiofertas"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "apiofertas",
+    "packageName": "com.mycompany.apiofertas",
+    "packageFolder": "com/mycompany/apiofertas",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZDU3YzZiZjJkYTkwNzRiYzA3ODZlODQwYzVjOWRkNGNlNTg4MTYwYzE1YmQyZDNkNDQxYjNjZjI5ZDM5MjFkYmY5MjAzODJjNzdlZDA3NTNhZjY3ZTVhMTYzYzU2YWYwM2M3YzczZWZhOTdjMjg4YjI3OGE5MmM0NWYxY2FkODI=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "creationTimestamp": 1606924892148,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": [],
+    "lastLiquibaseTimestamp": 1606925378000
+  }
+}
